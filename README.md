@@ -40,6 +40,24 @@ STEP 9 : Create FINAL Service (gateway-service)
 ![FINAL Service deployment snapshot](https://github.com/user-attachments/assets/a8d190bf-b62a-43ef-8bd9-5c7b8f17a6f0)
 
 ## STEP 10: Start Minikube
+![Minikube started snapshot](https://github.com/user-attachments/assets/29093f5c-4db6-4dc1-86df-939fe87830c0)
+
+Step 11: Deployoed YAML Files
+  kubectl apply -f deployments/
+  kubectl apply -f services/
+![YAML Files deployment snapshot](https://github.com/user-attachments/assets/463f867a-0c26-4384-80b8-276088878106)
+
+STEP 13: Pods runing 
+ kubectl get pods
+ ![Pods runing snapshot](https://github.com/user-attachments/assets/df658657-c533-46b4-97e8-447fe5f4f289)
+ 
+
+
+
+
+
+
+
 
 
 
